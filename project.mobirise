@@ -382,7 +382,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/image-4-600x45016.jpg",
+              "src": "@PROJECT_PATH@/assets/images/image-4-600x4500.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -398,7 +398,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"page1.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Купить</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/image-1-600x45017.jpg",
+              "src": "@PROJECT_PATH@/assets/images/image-1-600x4501.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -414,7 +414,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/image-2-600x45018.jpg",
+              "src": "@PROJECT_PATH@/assets/images/image-2-600x4502.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -430,7 +430,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/image-3-600x45019.jpg",
+              "src": "@PROJECT_PATH@/assets/images/image-3-600x4503.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
