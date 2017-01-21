@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "name": "Интернет-магазин Домашний текстиль",
     "theme": {
       "name": "mobirise3",
@@ -382,7 +382,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/image-4-600x4508.jpg",
+              "src": "@PROJECT_PATH@/assets/images/image-4-600x45012.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -398,7 +398,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"page1.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Купить</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/image-1-600x4509.jpg",
+              "src": "@PROJECT_PATH@/assets/images/image-1-600x45013.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -414,7 +414,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/image-2-600x45010.jpg",
+              "src": "@PROJECT_PATH@/assets/images/image-2-600x45014.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -430,7 +430,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/image-3-600x45011.jpg",
+              "src": "@PROJECT_PATH@/assets/images/image-3-600x45015.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -545,7 +545,7 @@
           "text6": "<strong>Contacts</strong><br>Email: support@mobirise.com<br>Phone: +1 (0) 000 0000 001<br>Fax: +1 (0) 000 0000 002<br><br><br><strong>Address</strong><br>1234 Street Name<br>City, AA 99999",
           "form": {
             "title": "MESSAGE",
-            "action": "speedvvagon@gmail.com",
+            "action": "onlinshop42@gmail.com",
             "alerts": {
               "success": "Данные отправленны. Мы свяжимся с Вами."
             },
@@ -764,7 +764,7 @@
           "title": "Контактная форма<br><br>",
           "subtitle": "Оставте свои контактные данные и мы свяжися с вами.",
           "form": {
-            "action": "speedvvagon@gmail.com",
+            "action": "onlinshop42@gmail.com",
             "alerts": {
               "success": "Данные отправленны. Мы свяжимся с Вами."
             },
