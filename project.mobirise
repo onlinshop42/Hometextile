@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page2.html",
+    "currentPage": "page1.html",
     "name": "Интернет-магазин Домашний текстиль",
     "theme": {
       "name": "mobirise3",
@@ -25,7 +25,7 @@
     "versionPublish": "3.11",
     "path": "@PROJECT_PATH@",
     "favicon": "",
-    "noImageResize": "",
+    "noImageResize": "true",
     "google-analytics": ""
   },
   "pages": {
@@ -202,6 +202,25 @@
             "Theme"
           ],
           "_name": "features3",
+          "_styles": {
+            "B": {
+              "font-size": "23px",
+              "color": "#f28281",
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
+            },
+            "P": {
+              "color": "#232323"
+            },
+            ".btn": {
+              "font-size": "15px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            "SPAN": {
+              "color": "#b8312f"
+            }
+          },
           "_anchor": "features3-c",
           "_params": {
             "paddingTop": "2",
@@ -312,26 +331,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_styles": {
-            "B": {
-              "font-size": "23px",
-              "color": "#f28281",
-              "font-family": "'Roboto Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
-            },
-            "P": {
-              "color": "#232323"
-            },
-            ".btn": {
-              "font-size": "15px",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
-            },
-            "SPAN": {
-              "color": "#b8312f"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_tags": [
@@ -382,7 +382,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/image-4-600x45021.jpg",
+              "src": "@PROJECT_PATH@/assets/images/image-4-600x4504.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -398,7 +398,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"page1.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Купить</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/image-1-600x45022.jpg",
+              "src": "@PROJECT_PATH@/assets/images/image-1-600x4505.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -414,7 +414,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/image-2-600x45023.jpg",
+              "src": "@PROJECT_PATH@/assets/images/image-2-600x4506.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -430,7 +430,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/image-3-600x45024.jpg",
+              "src": "@PROJECT_PATH@/assets/images/image-3-600x4507.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -474,6 +474,11 @@
             "Theme"
           ],
           "_name": "contacts3",
+          "_styles": {
+            ".list-group-text": {
+              "text-align": "left"
+            }
+          },
           "_anchor": "contacts3-14",
           "_params": {
             "paddingTop": 3,
@@ -566,12 +571,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Отправить</a>",
-          "_styles": {
-            ".list-group-text": {
-              "text-align": "left"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Отправить</a>"
         }
       ]
     },
@@ -740,6 +740,9 @@
           "_styles": {
             ".form-control-label": {
               "color": "#232323"
+            },
+            ".btn": {
+              "font-size": "15px"
             }
           },
           "_anchor": "form1-k",
@@ -787,7 +790,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Отправить</a>"
         }
       ]
     },

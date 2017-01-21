@@ -620,6 +620,9 @@ h6,
 #form1-k .form-control-label {
   color: #232323;
 }
+#form1-k .btn {
+  font-size: 15px;
+}
 
 #menu-n .hide-buttons .nav-btn {
   display: none !important;
